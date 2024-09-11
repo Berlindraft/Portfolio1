@@ -107,10 +107,10 @@ main {
   padding: 20px;
 }
 
-.contacts-wrapper p {
+.info-wrapper {
   padding: 20px;
+  padding-bottom: 80px;
 }
-
 
 .techstack-list li {
   position: relative;
